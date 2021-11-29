@@ -1,0 +1,20 @@
+{
+  "name": "fcc-challenges-package.json",
+  "version": "1.0.0",
+  "description": "to complete test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budski82/fcc-challenges-package.json.git"
+  },
+  "keywords": [],
+  "author": "budski82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budski82/fcc-challenges-package.json/issues"
+  },
+  "homepage": "https://github.com/budski82/fcc-challenges-package.json#readme"
+}
